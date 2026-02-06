@@ -18,9 +18,9 @@ Creating Databases and Tables
 - Different Types of Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN using UNION)  
 - Subqueries and Views
 
-- ### Tools Used
-  MySQL  
-  Windows Command Prompt
+ ### Tools Used
+ - MySQL  
+ - Windows Command Prompt
 
   ### How to Run
 
